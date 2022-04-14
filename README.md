@@ -1,4 +1,4 @@
-"CNN Image Classification" 
+### CNN Image Classification
 
 Choose a small (<3,000) image dataset for classification. Use a CNN to train the model.
 
